@@ -1,5 +1,5 @@
 ---
-label: Main_Front_Matter
+label: nav_title_layout
 hide_body: false
 fields:
 - type: text
