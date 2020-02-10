@@ -15,4 +15,5 @@ fields:
   name: nav_order
   label: nav_order
 pages:
+- docs/foundational-guidance/goals-and-principles.md
 - docs/ui-components/mypage.md
