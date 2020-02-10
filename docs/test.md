@@ -2,7 +2,7 @@
 layout: default
 title: Test
 parent: ''
-nav_order: 6
+nav_order: 9
 
 ---
 # Test
