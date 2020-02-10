@@ -11,6 +11,10 @@ fields:
 - type: number
   name: nav_order
   label: nav_order
+  config:
+    min: '0'
+    step: '1'
+    max: '1000'
 - type: boolean
   name: has_children
   label: has_children
