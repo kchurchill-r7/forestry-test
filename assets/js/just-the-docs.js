@@ -296,4 +296,4 @@ jtd.onReady(function(){
 
 })(window.jtd = window.jtd || {});
 
-{% include js/custom.js %}
+// {% include js/custom.js %}
