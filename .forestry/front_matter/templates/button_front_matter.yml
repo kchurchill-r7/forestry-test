@@ -13,3 +13,4 @@ fields:
   label: nav_order
 pages:
 - docs/secondpage.md
+- docs/ui-components/mypage.md
