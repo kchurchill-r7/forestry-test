@@ -1,5 +1,5 @@
 ---
-label: main_template
+label: main_template_all_options
 hide_body: false
 fields:
 - type: text
