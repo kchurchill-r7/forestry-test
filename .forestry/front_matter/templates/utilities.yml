@@ -27,6 +27,5 @@ fields:
   name: permalink
   label: permalink
 pages:
-- docs/foundational-guidance.md
 - docs/foundational-guidance/foundational-guidance.md
 - docs/secondpage.md
