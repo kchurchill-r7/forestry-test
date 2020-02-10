@@ -1,13 +1,18 @@
 ---
-label: Utilities
+label: main_template
 hide_body: false
 fields:
 - type: text
   name: layout
   label: layout
+  config:
+    required: true
+  default: default
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: number
   name: nav_order
   label: nav_order
