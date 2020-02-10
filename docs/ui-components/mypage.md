@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mypage
+title: My Page
 nav_order: 8
 parent: UI Components
 published: false
