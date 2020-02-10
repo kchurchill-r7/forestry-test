@@ -234,5 +234,3 @@ To generate a Table of Contents on your docs pages, you can use the `{:toc}` met
 ```
 
 This example skips the page name heading (`#`) from the TOC, as well as the heading for the Table of Contents itself (`##`) because it is redundant, followed by the table of contents itself.
-
-* jhh
